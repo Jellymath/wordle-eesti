@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/build/
+/.idea
+# Dictionary file itself, can be downloaded by words/downloadDictionary function
+/eestiinglise.txt
